@@ -1,16 +1,11 @@
-![Static Badge](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android&logoColor=white)
-![Static Badge](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)
-![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/android_studio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Static Badge](https://img.shields.io/badge/intellij_idea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-
-
-
-
+![Static Badge](https://img.shields.io/badge/android-white?style=for-the-badge&logo=android&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/android_studio-white?style=for-the-badge&logo=androidstudio&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/intellij_idea-white?style=for-the-badge&logo=intellijidea&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=%23333333)
+![Static Badge](https://img.shields.io/badge/jetpack_compose-white?style=for-the-badge&logo=jetpackcompose&logoColor=%23333333)
 
 
 <!--
